@@ -50,6 +50,10 @@ The tests can be run at any time with `npm run test`.
 
 * In your HTML template files, you may want to add a placeholder character that helps your program identify where the dynamic markup begins and ends.
 
+Click the link below to watch how the application works
+
+[Video Link](https://youtu.be/ChAGCxknIzA)
+
 ## Credits
 
 **[Anjali Pant](https://github.com/Anjali9293)**
