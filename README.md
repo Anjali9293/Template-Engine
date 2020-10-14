@@ -54,6 +54,8 @@ Click the link below to watch how the application works
 
 [Video Link](https://youtu.be/ChAGCxknIzA)
 
+![Video demo](/Assets/Video/Template-Engine.gif)
+
 ## Credits
 
 **[Anjali Pant](https://github.com/Anjali9293)**
